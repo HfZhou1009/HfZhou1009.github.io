@@ -26,10 +26,10 @@ author:
   name             : "HanfengZhou"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Beijing" 
-  employer         : "AMSS" 
+  location         : "Beijing"
+  employer         : "AMSS"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "none@example.org"
 
   # Academic websites
   academia         : # URL
